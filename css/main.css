@@ -1,0 +1,72 @@
+
+
+.login{
+   background: url(../img/bg.png);
+    width: 30%;
+    height: 570px;
+    margin-top: 8%;
+    margin-left: 35%;
+}
+.pass{
+    width: 16.6%;
+    height: 370px;
+
+    margin-left: 6.5%;
+    position: absolute;
+    margin-top: 5%;
+    background: white;
+}
+.ribbon{
+    width: 151px;
+    height: 27px;
+
+    position: absolute;
+    margin-top: 93px;
+    margin-left: 154px;
+    background: url(../img/ribbon.png);
+}
+.text{
+    font:  bold 12px Arial;
+    color: white;
+
+    margin-top: 3%;
+
+}
+label{
+    font:  bold 12px Arial;
+
+
+}
+span{
+    color: #6cc9c9;
+}
+.padd{
+    margin-top: 37px;
+}
+input{
+    width: 260px;
+    margin-top: 4px;
+    color: #bac0c0;
+    font:   12px Arial;
+    height: 30px;
+    background: url(../img/bg.png);
+    border: 0;
+    border-radius: 2px;
+}
+.pa{
+    margin-top: 19px;
+}
+.pa2
+{
+    margin-top: 17px;
+}
+.butt{
+    width: 260px;
+    height: 45px;
+    margin-top: 35px;
+
+    font:   bold 16px Arial;
+    color: white;
+    border: 0;
+    border-radius: 5px;
+}
